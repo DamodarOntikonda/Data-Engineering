@@ -1,0 +1,13 @@
+SQL Statements:
+SELECT TABLE, CREATE TABLE, DROP TABLE
+
+SELECT With Different Clause
+LIMIT
+ORDER BY
+WHERE
+LIKE 
+IN
+NOT
+
+Operators
+Arithmatic Operations: <, >, =, !=, <=, >=
